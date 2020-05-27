@@ -1,0 +1,15 @@
+.redondo {
+ height: 500px;
+ width: 800px;
+ border: 2px solid black;
+ border-radius: 200px;
+ }
+
+ .Video {
+    height: 500px;
+    width: 800px;
+    border: 1px solid white;
+    border-radius: 50px;
+    } 
+
+ .imagen:hover {filter: opacity(.5);}
